@@ -10,9 +10,9 @@
 * **关于论文下载的网址：**
   * [http://sci-hub.bz/](http://sci-hub.bz/), [http://www.sci-hub.io/](http://www.sci-hub.io/), [http://www.sci-hub.cc](http://www.sci-hub.cc/): 伟大的[Sci-Hub!](https://vk.com/sci_hub)
   * [臺灣博碩士論文](http://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dwebmge)
-  * [臺灣聯大圖書館](http://etd.lib.nctu.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dwebmge&cache=1429577940693): 四大名校的论文。
+  * [臺灣聯大圖書館](http://etd.lib.nctu.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dwebmge&cache=1429577940693): 四大名校的论文。
   * [台湾各个大学硕博论文链接](https://www.douban.com/note/72601191/)：来自豆瓣网友的分享。
   * [MIT OpenCourseWare](https://ocw.mit.edu/index.htm) makes the materials used in the teaching of almost all of MIT's subjects available on the Web, free of charge.
   
-### 本页的访问地址为：https://freemanma.github.io/mylifepage/
+#### *本页的访问地址为：https://freemanma.github.io/mylifepage/*
 
